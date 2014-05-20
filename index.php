@@ -1,4 +1,3 @@
-github
 <input type="text" id="usuario" />         
 <div id="resultado"></div>
 
