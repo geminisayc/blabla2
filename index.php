@@ -1,4 +1,4 @@
-
+esto es blabla eeeeeeeeeeeeeeefsdfsdfsfds
 <input type="text" id="usuario" />         
 <div id="resultado"></div>
 
@@ -7,7 +7,7 @@
 
 $(document).ready(function(){
                          
-      var consulta;
+      var consultaconsultona;
              
       //hacemos focus
       $("#usuario").focus();
