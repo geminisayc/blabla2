@@ -1,4 +1,4 @@
-esto es blabla
+esto es blabla eeeeeeeeeeeeeee
 <input type="text" id="usuario" />         
 <div id="resultado"></div>
 
