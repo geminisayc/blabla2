@@ -1,4 +1,4 @@
-esto es blabla eeeeeeeeeeeeeeefsdfsdfsfds
+github
 <input type="text" id="usuario" />         
 <div id="resultado"></div>
 
@@ -7,7 +7,7 @@ esto es blabla eeeeeeeeeeeeeeefsdfsdfsfds
 
 $(document).ready(function(){
                          
-      var consultaconsultona;
+      var consulta;
              
       //hacemos focus
       $("#usuario").focus();
